@@ -13,4 +13,4 @@ jobs:
       - run: ls -l
       - uses: actions/checkout@v2
       - run: ls -l
-      - run: cat .githubb/workflows/main.yaml
+      - run: cat .github/workflows/main.yaml
